@@ -26,6 +26,26 @@
 
 2. Download & Apply Source   
 
+- when using venv 
+
+```shell 
+# Applying Lib to your project 
+/{your project path}/venv/bin/python -m pip install git+https://github.com/swit-developers/swit-pubsub-client-splunk-py.git
+
+# Check source
+/{your project path}/venv/bin/python -m pip list | grep  swit-pubsub-client-splunk-py
+```
+
+- when using root env
+
+```shell  
+# Applying Lib to your project
+pip3 install git+https://github.com/swit-developers/swit-pubsub-client-splunk-py.git
+
+# Check source 
+pip3 list | grep  swit-pubsub-client-splunk-py
+```
+
 3. Setting credential for accessing gcp client   
 
 - Procedure of getting credential

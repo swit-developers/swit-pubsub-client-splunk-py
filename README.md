@@ -30,6 +30,8 @@
 
 - Procedure of getting credential
 
+## Description of files 
+
 1. **Issue & PR Templates**: Review the files in `.github/ISSUE_TEMPLATE` and `.github/pull_request_template`. Adapt them
 to suit your needs, removing or re-wording any sections that don't make sense for your use case.
 1. **CHANGELOG.md:** Change the `$REPO_NAME` in the links at the bottom to the name of the repository, and replace the example template lines with the actual notes for the repository/crate.

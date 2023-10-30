@@ -6,7 +6,7 @@
 
 
 <!--- FIXME: Pick an emoji and name your project! --->
-# `Splunk provider with pubSub client of swit`
+# Splunk provider with pubSub client of swit
 
 <!--- FIXME: Write short catchy description/tagline of project --->
 **To communicate splunk api with swit information**
